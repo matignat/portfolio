@@ -18,10 +18,6 @@ I'm a passionate developer with a strong foundation in low-level architecture, c
 
 ## 🚀 Highlighted Projects
 
-### 🌐 Web Development (Full-Stack)
-* **[WWWordle](https://github.com/matignat/WWWordle)** – A fully custom Wordle-inspired web application built from scratch with Django, JavaScript, TypeScript, HTML, and CSS. It features customizable difficulty, user accounts with GitHub OAuth, a live leaderboard, and dynamic animations.
-* **[Django Web Platform](https://github.com/matignat/djangowww)** – A full-featured Django web application that combines authentication, personal content, project discovery, and blog publishing in a single, extensible platform.
-
 ### ⚙️ C / C++ (Networking, Concurrency & Low-Level)
 * **[Internet Radio Client](https://github.com/matignat/sikradio)** – A C++ implementation of an Internet radio client communicating with a remote server over TCP and supporting both IPv4 and IPv6. It handles continuous audio streaming, reconnection, and multiplexed text data.
 * **[Kyles Network Game](https://github.com/matignat/KylesNetworkGame)** – A client-server implementation of a modified two-player Kayles game using a custom application-layer protocol over UDP/IPv4.
@@ -29,6 +25,10 @@ I'm a passionate developer with a strong foundation in low-level architecture, c
 * **[Moore Automaton](https://github.com/matignat/MooreAutomaton)** – High-performance, dynamically loadable C library for simulating synchronous deterministic finite automata.
 * **[Sokoban](https://github.com/matignat/Sokoban)** – Simulation of a fun terminal game oriented around moving boxes.
 * **[Rubik's Cube](https://github.com/matignat/RubiksCube)** – A Rubik's cube simulation.
+
+### 🌐 Web Development (Full-Stack)
+* **[WWWordle](https://github.com/matignat/WWWordle)** – A fully custom Wordle-inspired web application built from scratch with Django, JavaScript, TypeScript, HTML, and CSS. It features customizable difficulty, user accounts with GitHub OAuth, a live leaderboard, and dynamic animations.
+* **[Django Web Platform](https://github.com/matignat/djangowww)** – A full-featured Django web application that combines authentication, personal content, project discovery, and blog publishing in a single, extensible platform.
 
 ### 🐍 Python (Machine Learning & Data Analysis)
 * **[Color Palette Reduction](https://github.com/matignat/ColorPalette)** – Solves the problem of lossy image compression via color-palette reduction using KMeans and KMedoids clustering algorithms.
