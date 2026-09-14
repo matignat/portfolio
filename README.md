@@ -24,7 +24,7 @@ I'm a passionate developer with a strong foundation in low-level architecture, c
 * **[Plant Multi-threaded System](https://github.com/matignat/factory)** – A concurrent simulation engine for a factory handling worker allocation, processing stations, and scheduled tasks, implemented in C.
 * **[Moore Automaton](https://github.com/matignat/moore-automaton)** – High-performance, dynamically loadable C library for simulating synchronous deterministic finite automata.
 * **[Sokoban](https://github.com/matignat/simple-games-c/tree/main/Sokoban)** – Simulation of a fun terminal game oriented around moving boxes.
-* **[Rubik's Cube](https://github.com/matignat/RubiksCube)(https://github.com/matignat/simple-games-c/tree/main/RubiksCube)** – A Rubik's cube simulation.
+* **[Rubik's Cube](https://github.com/matignat/simple-games-c/tree/main/RubiksCube)** – A Rubik's cube simulation.
 
 ### 🌐 Web Development (Full-Stack)
 * **[WWWordle](https://github.com/matignat/wwwordle)** – A fully custom Wordle-inspired web application built from scratch with Django, JavaScript, TypeScript, HTML, and CSS. It features customizable difficulty, user accounts with GitHub OAuth, a live leaderboard, and dynamic animations.
