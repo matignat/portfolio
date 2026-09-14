@@ -1,15 +1,16 @@
 <div align="center">
   <h1>Portfolio of Projects</h1>
-  <p>🎓Im a Computer Science Student at University of Warsaw| 💻 Software Engineer</p>
+  <p>🎓Im a Computer Science Student at University of Warsaw | 💻 Software Engineer</p>
 </div>
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong foundation in low-level architecture, concurrency, object-oriented design, and full-stack web development. I enjoy building everything from highly optimized C/C++ network systems to full-featured Django web platforms.
+I'm a passionate developer with a strong foundation in low-level architecture, concurrency, object-oriented design, and full-stack web development. I enjoy building everything from highly optimized C/C++ network systems to full-featured Django web platforms.
 
 ## 🛠️ Tech Stack & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -19,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 
 ### 🌐 Web Development (Full-Stack)
 * **[WWWordle](https://github.com/matignat/WWWordle)** – A fully custom Wordle-inspired web application built from scratch with Django, JavaScript, TypeScript, HTML, and CSS[cite: 10]. It features customizable difficulty, user accounts with GitHub OAuth, a live leaderboard, and dynamic animations[cite: 10].
-* **[Django Web Platform](https://github.com/matignat/WWW)** – A full-featured Django web application that combines authentication, personal content, project discovery, and blog publishing in a single, extensible platform[cite: 14].
+* **[Django Web Platform](https://github.com/matignat/djangowww)** – A full-featured Django web application that combines authentication, personal content, project discovery, and blog publishing in a single, extensible platform[cite: 14].
 
 ### ⚙️ C / C++ (Networking, Concurrency & Low-Level)
 * **[Internet Radio Client](https://github.com/matignat/sikradio)** – A C++ implementation of an Internet radio client communicating with a remote server over TCP and supporting both IPv4 and IPv6[cite: 13]. It handles continuous audio streaming, reconnection, and multiplexed text data[cite: 13].
