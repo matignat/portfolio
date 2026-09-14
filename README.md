@@ -45,13 +45,6 @@ I'm a passionate developer with a strong foundation in low-level architecture, c
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matignat&show_icons=true&theme=tokyonight&hide_border=true" alt="matignat's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matignat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
 ## 📫 Get in Touch
-- **LinkedIn:** [Firstname Lastname](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Mateusz Gnat](https://linkedin.com/in/yourprofile)
+- **Email:** mateusz.gnat12@gmail.com
