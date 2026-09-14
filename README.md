@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Matignat 👋</h1>
-  <p>🎓 Computer Science Student | 💻 Aspiring Software Engineer</p>
+  <h1>Portfolio of Projects</h1>
+  <p>🎓Im a Computer Science Student at University of Warsaw| 💻 Software Engineer</p>
 </div>
 
 Welcome to my GitHub profile! I'm a passionate developer with a strong foundation in low-level architecture, concurrency, object-oriented design, and full-stack web development. I enjoy building everything from highly optimized C/C++ network systems to full-featured Django web platforms.
