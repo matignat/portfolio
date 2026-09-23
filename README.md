@@ -46,5 +46,5 @@ I'm a passionate developer with a strong foundation in low-level architecture, c
 ---
 
 ## 📫 Get in Touch
-- **LinkedIn:** [Mateusz Gnat](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Mateusz Gnat]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mateusz-gnat-570aa1355/))
 - **Email:** mateusz.gnat12@gmail.com
